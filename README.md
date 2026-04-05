@@ -1,0 +1,1 @@
+Akhirnya aku lumayan mengerti sama workflow, validasi, scope, dll walaupun masih basic.
